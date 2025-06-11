@@ -4,7 +4,8 @@
   "description": "Acme work item 1 process automation",
   "main": "Main.xaml",
   "dependencies": {
-    "Acme.Login": "[1.0.2]",
+    "Acme.Login": "[1.0.4]",
+    "UiPath.Excel.Activities": "[3.0.1]",
     "UiPath.System.Activities": "[25.4.4]"
   },
   "webServices": [],
